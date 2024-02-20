@@ -19,11 +19,6 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-## <a name="starter-kits">📦 Starter Kits</a>
-
-Get the starter kits for a few corresponding applications used in the project
-* MERN Demo - [Download Kit](https://drive.google.com/file/d/15Yqkb6rNPv6DEfT6zuIHDKchzGkOUblZ/view?usp=sharing)
-* Next.js Demo - [Download Kit](https://drive.google.com/file/d/1edSiwP0AwtKblE5y-ZlzIGfq2lcDJBPF/view?usp=sharing)
 
 ## <a name="code-snippets">🕸️ Code Snippets</a>
 
